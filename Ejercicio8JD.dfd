@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+13
+valor, codigo
+7
+0
+1
+11
+codigo=2208
+4
+1
+36
+'usted debe pagar ', valor, ' pesos'
+13
+6
+2
+3
+des
+14
+(valor*50)/100
+5
+total
+9
+valor-des
+4
+1
+36
+'usted debe pagar ', total, ' pesos'
+13
+1

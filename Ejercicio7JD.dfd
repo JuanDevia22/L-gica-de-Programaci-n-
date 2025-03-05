@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+11
+valor, edad
+7
+0
+1
+7
+edad>60
+4
+1
+62
+'no tiene descuento por lo tanto debe pagar ', valor, ' pesos'
+13
+6
+2
+3
+des
+14
+(valor*25)/100
+5
+total
+9
+valor-des
+4
+1
+67
+'el descuento es del 25% por lo tanto debe pagar ', total, ' pesos'
+13
+1
