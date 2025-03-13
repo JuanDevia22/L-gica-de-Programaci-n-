@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+13
+valor, numero
+7
+0
+1
+24
+numero=57 or numero=3701
+4
+1
+36
+'usted debe pagar ', valor, ' pesos'
+13
+6
+3
+3
+des
+14
+(valor*30)/100
+3
+iva
+14
+(valor*19)/100
+5
+total
+13
+valor-des+iva
+4
+1
+5
+total
+13
+1

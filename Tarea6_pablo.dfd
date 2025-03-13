@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'digite el valor'
+5
+1
+5
+valor
+4
+1
+16
+'digite su edad'
+5
+1
+4
+edad
+7
+0
+1
+25
+valor>=200000 and edad>60
+6
+2
+3
+iva
+14
+(valor*19)/100
+5
+total
+9
+valor+iva
+4
+1
+36
+'usted debe pagar ', total, ' pesos'
+13
+6
+3
+3
+des
+14
+(valor*50)/100
+3
+iva
+14
+(valor*19)/100
+5
+total
+13
+valor-des+iva
+4
+1
+36
+'usted debe pagar ', total, ' pesos'
+13
+1
